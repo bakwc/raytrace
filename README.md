@@ -1,2 +1,2 @@
 # raytrace
-GPU Raytracer (for educational purposes)
+Realtime GPU Raytracer (for educational purposes)
